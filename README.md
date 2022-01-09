@@ -7,3 +7,4 @@
 > <a target="_blank" href="https://icons8.com/icon/65457/tin-can">Tin Can</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 - Tuna
+- Sardines
